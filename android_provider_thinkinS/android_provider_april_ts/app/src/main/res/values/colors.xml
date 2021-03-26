@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#E91E63</color>
+    <color name="colorPrimaryText">#000000</color>
+    <color name="colorSecondaryText">#888888</color>
+
+    <color name="white">#FFF</color>
+    <color name="window_background">#F7F7F8</color>
+
+    <color name="grey">#37000000</color>
+    <color name="bg_grey">#F2F2F2</color>
+    <color name="bg_grey_dark">#E5E5E5</color>
+
+    <!-- Circle ProgressBar-->
+    <color name="ripple_color">#13aee7</color>
+
+    <!-- Summary-->
+    <color name="red">#f44236</color>
+    <color name="blue">#3e70c9</color>
+    <color name="pink">#F6CADB</color>
+    <color name="green">#43b968</color>
+    <color name="orange">#f59345</color>
+    <color name="ratingBarColor">#fdc928</color>
+    <color name="nav_header_background">#EBEBF1</color>
+    <color name="blue_grey">#30303b</color>
+    <color name="grey_material">#E1E1E1</color>
+    <color name="open_bg">#e7ebff</color>
+    <color name="open_word">#1b66ee</color>
+    <color name="close_bg">#ffe7ed</color>
+    <color name="close_word">#ee1b50</color>
+
+
+
+    <color name="tv_normal_color">#2e6db3</color>
+    <color name="nav_bg_color">#2e6db3</color>
+    <color name="nav_bar_color">#2e6db3</color>
+    <color name="tv_color">#2e6db3</color>
+    <color name="bg_et_color">#FFF6F6F6</color>
+    <color name="bottom_sheet_bg_color">#FFFFFF</color>
+
+    <!--Signin-->
+    <color name="btn_color">#2e6db3</color>
+    <color name="btn_text_color">#FFFFFF</color>
+    <color name="bg_signin_color">#FF2C323E</color>
+    <color name="bg_layout_color">#FFFFFF</color>
+    <color name="light_white">#F7F7F7</color>
+    <color name="chat_text">#9FA5B2</color>
+    <color name="black">#2e6db3</color>
+    <color name="mild_black">#767171</color>
+     <color name="view_not_chat">#EC6B76</color>
+    <color name="view_chat">#2e6db3</color>
+    <color name="offline">#D2D2D2</color>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="edit_bg">#EDEDED</color>
+    <color name="light_trans">#2e6db3</color>
+    <color name="high_trans">#2e6db3</color>
+    <color name="accept_reject_color">#BEBEBE</color>
+    <color name="accept_reject_header_color">#6F6F6F</color>
+
+    <!--Service List-->
+    <color name="text_bg_trans_color">#aa2c323e</color>
+    <color name="dustYellow">#ffd700</color>
+
+    <!--Spot Dialog Dot Color-->
+    <color name="spots_dialog_color">@color/tv_color</color>
+
+    <color name="nav_header">#f6f6f6</color>
+
+    <!--SignIn-->
+
+    <color name="cancel_ride_color">#B0B0B0</color>
+    <color name="rippel_color">#6DCFF6</color>
+
+
+    <color name="user_name">#B0B0B0</color>
+
+
+
+</resources>
